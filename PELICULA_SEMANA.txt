@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<channels>
+    <channels_info>
+      <title>[COLOR yellow]PELICULA DEL DIA[/COLOR]</title>
+      <thumbnail>https://dl.dropboxusercontent.com/s/88rp9y6mpuwzui2/MOVIE.png?dl=0</thumbnail>
+    </channels_info>
+<channels>
+
+ 
+<channel>
+      <name>[COLOR cyan][/COLOR][COLOR yellow]                                                            PLAY[/COLOR]</name>
+  <thumbnail>http://1.bp.blogspot.com/-LvMlqDGGi5w/VfHcSKKf-qI/AAAAAAAAEx8/LSns1UE3nIM/s1600/Logo%2BNuevo.jpg</thumbnail>
+<fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://dl.dropboxusercontent.com/s/rveddmrb0wtw93s/VID_PELICULA_SEMANA.m3u?dl=0</externallink>
+</channel>
+  </channels>
+ 
+   
+ 
