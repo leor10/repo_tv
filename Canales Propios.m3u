@@ -1,3 +1,4 @@
+
 #EXTINF:-1  group-title="DEPORTES Y ENTRETENIMIENTO",MOVISTAR DEPORTES
 http://188.166.15.97/loadbalance/48238721365581253576/chunks.m3u8?pxAuth=RwlunLAbeQ8C8MyQQvHgtl0ZStSk56WD
 #EXTINF:-1  group-title="DEPORTES Y ENTRETENIMIENTO",DIRECTV SPORTS
@@ -18,243 +19,231 @@ http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX19iSZXr9sXP63xudBoa7SMOV
 http://wowza2.mysoltv.com:1992/Latino_HBO_2/tracks-v1a1/index.m3u8
 #EXTINF:-1  group-title="PELICULAS",FOX
 http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18mFv47UNryM8DHtNHVtyqH%2BdbthgGbZEO5X0ciMPaZW94eXO%2BClJ7S2XB3NYKiziqQDb1uIeKe4g%3D%3D 
-
 #EXTINF:-1  group-title="COLOMBIA",RCN NUESTRA TELE
 http://vivoplay-i.akamaihd.net/hls/live/255327/canal7/master2500k.m3u8
-#EXTINF:-1 group-title="REPUBLICA DOMINICANA",TELESISTEMA
+#EXTINF:-1  group-title="REPUBLICA DOMINICANA",TELESISTEMA
 http://mek6.mekstream.com/telesistema/live/chunklist_w1491596717.m3u8
-#EXTINF:-1 group-title="USA",COMEDI CENTRAL
+#EXTINF:-1  group-title="USA",COMEDI CENTRAL
 http://iptv.cs2017.info:9090/live/vaquezs/24/164.m3u8
-#EXTINF:-1 group-title="MEXICO",CANAL DE LAS ESTRELLAS
+#EXTINF:-1  group-title="MEXICO",CANAL DE LAS ESTRELLAS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-#EXTINF:-1 group-title="PELICULAS",HBO
+#EXTINF:-1  group-title="PELICULAS",HBO
 http://antenatv.tk/jksjdlashwhjjhbbd-107.m3u8
-#EXTINF:-1 group-title="PELICULAS",TNT
+#EXTINF:-1  group-title="PELICULAS",TNT
 http://antenatv.tk/asjhakjtqtwuebfftteeee-15-2122313.m3u8
-#EXTINF:-1 UNIVERSAL CHANNEL
+#EXTINF:-1  UNIVERSAL CHANNEL
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w18055663.m3u8
-#EXTINF:-1 group-title="FAMILIA E INFANTILES",CARTOON NETWORK
+#EXTINF:-1  group-title="FAMILIA E INFANTILES",CARTOON NETWORK
 http://antenatv.tk/asjhakjtqtwuebfftteeee-16-2059903.m3u8
-#EXTINF:-1 group-title="FAMILIA E INFANTILES",NICKELODEON
+#EXTINF:-1  group-title="FAMILIA E INFANTILES",NICKELODEON
 http://iptv.cs2017.info:9090/live/vaquezs/24/226.m3u8
-#EXTINF:-1 group-title="FAMILIA E INFANTILES",DISNEY XD
+#EXTINF:-1  group-title="FAMILIA E INFANTILES",DISNEY XD
 http://iptv.cs2017.info:9090/live/vaquezs/24/128.m3u8
-#EXTINF:-1 group-title="FAMILIA E INFANTILES",DISNEY CHANNEL
+#EXTINF:-1  group-title="FAMILIA E INFANTILES",DISNEY CHANNEL
 http://iptv.cs2017.info:9090/live/vaquezs/24/146.m3u8
-#EXTINF:-1 group-title="FAMILIA E INFANTILES",DISNEY CHANNEL HD
+#EXTINF:-1  group-title="FAMILIA E INFANTILES",DISNEY CHANNEL HD
 http://iptv.cs2017.info:9090/live/vaquezs/24/223.m3u8
-#EXTINF:-1 group-title="FAMILIA E INFANTILES",DISNEY JR ESPAÑA
+#EXTINF:-1  group-title="FAMILIA E INFANTILES",DISNEY JR ESPAÑA
 http://iptv.cs2017.info:9090/live/vaquezs/24/202.m3u8
-#EXTINF:-1 group-title="FAMILIA E INFANTILES",BOING ESPAÑA
+#EXTINF:-1  group-title="FAMILIA E INFANTILES",BOING ESPAÑA
 http://iptv.cs2017.info:9090/live/vaquezs/24/167.m3u8
-#EXTINF:-1 group-title="DEPORTES Y ENTRETENIMIENTO",AyM DEPORTES
+#EXTINF:-1  group-title="DEPORTES Y ENTRETENIMIENTO",AyM DEPORTES
 https://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master2500k.m3u8?
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",RETRO TV
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="USA",SUN CHANNEL
+#EXTINF:-1  group-title="USA",SUN CHANNEL
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8?iptvgratis?Cultura.m3u8?
-#EXTINF:-1 group-title="NOTICIAS E INFORMACION",TRAVEL HD
+#EXTINF:-1  group-title="NOTICIAS E INFORMACION",TRAVEL HD
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
-#EXTINF:-1 group-title="NOTICIAS E INFORMACION",DW LATINO
+#EXTINF:-1  group-title="NOTICIAS E INFORMACION",DW LATINO
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="DEPORTES Y ENTRETENIMIENTO",GARAGE TV
+#EXTINF:-1  group-title="DEPORTES Y ENTRETENIMIENTO",GARAGE TV
 http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
-#EXTINF:-1 group-title="ESPAÑA",ANTENA 3
+#EXTINF:-1  group-title="ESPAÑA",ANTENA 3
 http://vivoplay-i.akamaihd.net/hls/live/255335/canal7/master2500k.m3u8
-#EXTINF:-1 group-title="ESPAÑA",ANTENA 3 INTERNACIONAL
+#EXTINF:-1  group-title="ESPAÑA",ANTENA 3 INTERNACIONAL
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8    
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",HITS
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",HITS
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",BEST HITS
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",BEST HITS
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",DANCE EDM
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",DANCE EDM
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",HIP HOP
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",HIP HOP
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",ALTERNATIVE
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",ALTERNATIVE
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",PLAY
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",PLAY
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",MUSICA URBANA
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",MUSICA URBANA
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",POP LATINO
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",POP LATINO
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",INDIE
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",INDIE
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",METAL
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",METAL
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",POP COUNTRY
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",POP COUNTRY
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",POP HITS
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",POP HITS
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",R&B SOUL
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",R&B SOUL
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",RAP
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",RAP
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",RAP 2K
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",RAP 2K
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",ROCK
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",ROCK
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",TODAY'S COUNTRY
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",TODAY'S COUNTRY
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",MUSICAS 90'S
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",MUSICAS 90'S
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",THROWBACK JAMZ
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",THROWBACK JAMZ
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",Y2K
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",Y2K
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",MEXICANA
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",MEXICANA
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",TROPICALES
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",TROPICALES
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",TEEN BEATS
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",TEEN BEATS
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",KIDS
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",KIDS
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",TOODDLER TUNES
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",TOODDLER TUNES
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
-#
-#    ******* NOTICIAS DEL MUNDO *******
-#
-#EXTINF:-1 group-title="NOTICIAS E INFORMACION",BLOOMBERG TV EUROPE
+#EXTINF:-1  group-title="NOTICIAS E INFORMACION",BLOOMBERG TV EUROPE
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 group-title="NOTICIAS E INFORMACION",CANAL NEW ASIA
+#EXTINF:-1  group-title="NOTICIAS E INFORMACION",CANAL NEW ASIA
 http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
-#EXTINF:-1 group-title="NOTICIAS E INFORMACION",ONDA ALEMANA
+#EXTINF:-1  group-title="NOTICIAS E INFORMACION",ONDA ALEMANA
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1 group-title="NOTICIAS E INFORMACION",EARTH TV
+#EXTINF:-1  group-title="NOTICIAS E INFORMACION",EARTH TV
 http://cdn.liveonearth.com//cdnedge//smil:TWL-en.smil//playlist.m3u8
-#EXTINF:-1 group-title="NOTICIAS E INFORMACION",TRT WORLD
+#EXTINF:-1  group-title="NOTICIAS E INFORMACION",TRT WORLD
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#
-#    ******* USA TV *******
-#
-#EXTINF:-1 group-title="NOTICIAS E INFORMACION",ABC NEWS
+#EXTINF:-1  group-title="NOTICIAS E INFORMACION",ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
-#EXTINF:-1 group-title="USA",MSNBC HD
+#EXTINF:-1  group-title="USA",MSNBC HD
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-#EXTINF:-1 group-title="USA",MSNBC
+#EXTINF:-1  group-title="USA",MSNBC
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
-#EXTINF:-1 group-title="USA",MSNBC 2
+#EXTINF:-1  group-title="USA",MSNBC 2
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
-#EXTINF:-1 group-title="NOTICIAS E INFORMACION",BLOOMBERG TV
+#EXTINF:-1  group-title="NOTICIAS E INFORMACION",BLOOMBERG TV
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1 group-title="NOTICIAS E INFORMACION",BLOOMBERG TV 2
+#EXTINF:-1  group-title="NOTICIAS E INFORMACION",BLOOMBERG TV 2
 http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
-#FOX NEWS RADIO
-
-#EXTINF:-1 ANIMAL PLANET
+#EXTINF:-1  ANIMAL PLANET
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 TRU TV
+#EXTINF:-1  TRU TV
 http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
-#
-#    ******* ESPAÑA TV *******
-#
-#EXTINF:-1 group-title="ESPAÑA",CANAL 7 MURCIA
+#EXTINF:-1  group-title="ESPAÑA",CANAL 7 MURCIA
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1 group-title="ESPAÑA",CANAL 8 CADIZ TV
+#EXTINF:-1  group-title="ESPAÑA",CANAL 8 CADIZ TV
 http://cls.todostreaming.eu/unatv/live/playlist.m3u8
-#EXTINF:-1 group-title="ESPAÑA",CANAL 13
+#EXTINF:-1  group-title="ESPAÑA",CANAL 13
 http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
-#EXTINF:-1 group-title="ESPAÑA",ALCARRIA TV
+#EXTINF:-1  group-title="ESPAÑA",ALCARRIA TV
 http://cls.todostreaming.eu/alcarriatv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ESPAÑA",ANDALUCIA TURISMO
+#EXTINF:-1  group-title="ESPAÑA",ANDALUCIA TURISMO
 http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8
-#EXTINF:-1 group-title="ESPAÑA",ANDORRA TV
+#EXTINF:-1  group-title="ESPAÑA",ANDORRA TV
 http://194.158.80.31:443/live/rtva/playlist.m3u8
-#EXTINF:-1 group-title="ESPAÑA",ANTENA 3
+#EXTINF:-1  group-title="ESPAÑA",ANTENA 3
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:-1 group-title="ESPAÑA",ANTENA 3 (2)
+#EXTINF:-1  group-title="ESPAÑA",ANTENA 3 (2)
 http://vivoplay-i.akamaihd.net/hls/live/255335/canal7/master2500k.m3u8
-#EXTINF:-1 group-title="ESPAÑA",ANTENA 3 INTERNACIONAL
+#EXTINF:-1  group-title="ESPAÑA",ANTENA 3 INTERNACIONAL
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:-1 group-title="ESPAÑA",ARAGON TV
+#EXTINF:-1  group-title="ESPAÑA",ARAGON TV
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-#EXTINF:-1 group-title="ESPAÑA",ARAGON TV (2)
+#EXTINF:-1  group-title="ESPAÑA",ARAGON TV (2)
 http://195.10.10.206/aragontv/hls-live/chunklist.m3u8
-#EXTINF:-1 group-title="ESPAÑA",ANTENA 3 SERIES
+#EXTINF:-1  group-title="ESPAÑA",ANTENA 3 SERIES
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1 group-title="ESPAÑA",ANTENA 3 SERIES (2)
+#EXTINF:-1  group-title="ESPAÑA",ANTENA 3 SERIES (2)
 http://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master2500k.m3u8
-#EXTINF:-1 group-title="ESPAÑA",BETIS TV
+#EXTINF:-1  group-title="ESPAÑA",BETIS TV
 http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
-#EXTINF:-1 group-title="ESPAÑA",BETEVE
+#EXTINF:-1  group-title="ESPAÑA",BETEVE
 http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
-#EXTINF:-1 group-title="ESPAÑA",CANAL 4 CENTRO MANCHA
+#EXTINF:-1  group-title="ESPAÑA",CANAL 4 CENTRO MANCHA
 http://xcanal4mcx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 group-title="ESPAÑA",CANAL 4 TENERIFE
+#EXTINF:-1  group-title="ESPAÑA",CANAL 4 TENERIFE
 https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
-#EXTINF:-1 group-title="NOTICIAS E INFORMACION",CANAL 24 HORAS
+#EXTINF:-1  group-title="NOTICIAS E INFORMACION",CANAL 24 HORAS
 http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
-#EXTINF:-1 group-title="ESPAÑA",CANAL 25
+#EXTINF:-1  group-title="ESPAÑA",CANAL 25
 http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ESPAÑA",CANAL COSTA
+#EXTINF:-1  group-title="ESPAÑA",CANAL COSTA
 http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8
-#EXTINF:-1 group-title="ESPAÑA",CANAL EXTREMADURA
+#EXTINF:-1  group-title="ESPAÑA",CANAL EXTREMADURA
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",CANAL SUR COCINA
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",CANAL SUR COCINA
 http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8
-#EXTINF:-1 group-title="ESPAÑA",CANAL SUR FLAMENCO
+#EXTINF:-1  group-title="ESPAÑA",CANAL SUR FLAMENCO
 http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
-#EXTINF:-1 group-title="ESPAÑA",CANAL PARLAMENTO
+#EXTINF:-1  group-title="ESPAÑA",CANAL PARLAMENTO
 http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8
-#EXTINF:-1 group-title="ESPAÑA",CANARIA SAT
+#EXTINF:-1  group-title="ESPAÑA",CANARIA SAT
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
-#EXTINF:-1 group-title="ESPAÑA",CANARIA SAT (2)
+#EXTINF:-1  group-title="ESPAÑA",CANARIA SAT (2)
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
-#EXTINF:-1 group-title="ESPAÑA",CASTILLA LA MANCHA TV
+#EXTINF:-1  group-title="ESPAÑA",CASTILLA LA MANCHA TV
 http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8
-#EXTINF:-1 group-title="ESPAÑA",CASTILLA LEON TV
+#EXTINF:-1  group-title="ESPAÑA",CASTILLA LEON TV
 http://cdn.s3.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
-#EXTINF:-1 group-title="ESPAÑA",CEUTA TV
+#EXTINF:-1  group-title="ESPAÑA",CEUTA TV
 http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="ESPAÑA",CONDAVISION
+#EXTINF:-1  group-title="ESPAÑA",CONDAVISION
 http://cls2.todostreaming.eu/azahara/uSCQc5ky/chunklist.m3u8
-#EXTINF:-1 group-title="ESPAÑA",COSTA DEL SOL TV
+#EXTINF:-1  group-title="ESPAÑA",COSTA DEL SOL TV
 http://cls.todostreaming.eu/benalmadena/webtv/chunklist.m3u8
-#EXTINF:-1 group-title="ESPAÑA",CUATRO
+#EXTINF:-1  group-title="ESPAÑA",CUATRO
 http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74_2.m3u8
-#EXTINF:-1 group-title="ESPAÑA",EL CORREO TV
+#EXTINF:-1  group-title="ESPAÑA",EL CORREO TV
 http://cls.elitehd-audiovisuales.com:80/luztv/livestream/live.m3u8
-#EXTINF:-1 group-title="ESPAÑA",EL CORREO TV (2)
+#EXTINF:-1  group-title="ESPAÑA",EL CORREO TV (2)
 http://cloud1.cdnstreamserver.com/luztv/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="ESPAÑA",EMPORDA TV
+#EXTINF:-1  group-title="ESPAÑA",EMPORDA TV
 http://ventdelnord.tv:8080/escala/directe.m3u8
-#EXTINF:-1 group-title="ESPAÑA",ESTEPONA TV
+#EXTINF:-1  group-title="ESPAÑA",ESTEPONA TV
 http://62.210.96.18:1935/esteponatv/esteponatv/chunklist_w1331861602.m3u8
-#EXTINF:-1 group-title="ESPAÑA",ETB SAT
+#EXTINF:-1  group-title="ESPAÑA",ETB SAT
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:-1 group-title="ESPAÑA",GIRONA TV
+#EXTINF:-1  group-title="ESPAÑA",GIRONA TV
 http://tvgirona.dnssw.net:1935/live/Icontouch/playlist.m3u8
-#EXTINF:-1 group-title="VARIEDADES Y MUSICA",HIT TV
+#EXTINF:-1  group-title="VARIEDADES Y MUSICA",HIT TV
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
-#EXTINF:-1 group-title="ESPAÑA",HTV HUELVA
+#EXTINF:-1  group-title="ESPAÑA",HTV HUELVA
 http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8
-#EXTINF:-1 group-title="ESPAÑA",IB3
+#EXTINF:-1  group-title="ESPAÑA",IB3
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
-#EXTINF:-1 group-title="ESPAÑA",INTERECONOMIA TV
+#EXTINF:-1  group-title="ESPAÑA",INTERECONOMIA TV
 http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
-#EXTINF:-1 group-title="ESPAÑA",LA SEXTA
+#EXTINF:-1  group-title="ESPAÑA",LA SEXTA
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:-1 group-title="ESPAÑA",LA OTRA
+#EXTINF:-1  group-title="ESPAÑA",LA OTRA
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
-#EXTINF:-1 group-title="ESPAÑA",LA XARXA
+#EXTINF:-1  group-title="ESPAÑA",LA XARXA
 http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
-#EXTINF:-1 group-title="ESPAÑA",LANCELOT TV
+#EXTINF:-1  group-title="ESPAÑA",LANCELOT TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:-1 group-title="ESPAÑA",LEBRIJA TV
+#EXTINF:-1  group-title="ESPAÑA",LEBRIJA TV
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-#EXTINF:-1 group-title="ESPAÑA",LEVANTE TV
+#EXTINF:-1  group-title="ESPAÑA",LEVANTE TV
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
-#EXTINF:-1 group-title="ESPAÑA",MEGA
+#EXTINF:-1  group-title="ESPAÑA",MEGA
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-#EXTINF:-1 group-title="ESPAÑA",MELILLA TV
+#EXTINF:-1  group-title="ESPAÑA",MELILLA TV
 http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
-#EXTINF:-1 group-title="ESPAÑA",MIRAME TV
+#EXTINF:-1  group-title="ESPAÑA",MIRAME TV
 http://controlstreams.com:1935/mirametv/mirametv/playlist.m3u8
-#EXTINF:-1 group-title="NOVELAS",NAVARRA TV
+#EXTINF:-1  group-title="NOVELAS",NAVARRA TV
 http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
-#EXTINF:-1 group-title="NOVELAS",NAVARRA TV (2)
+#EXTINF:-1  group-title="NOVELAS",NAVARRA TV (2)
 http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
 #EXTINF:-1,NEOX
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
